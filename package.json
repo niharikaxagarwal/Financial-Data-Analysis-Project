@@ -1,0 +1,14 @@
+{
+  "name": "e675de743b1f7e15",
+  "main": "e675de743b1f7e15@3099.js",
+  "version": "3099.0.0",
+  "homepage": "https://observablehq.com/d/e675de743b1f7e15",
+  "author": {
+    "name": "niharika",
+    "url": "https://observablehq.com/@niharikaagarwal"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
